@@ -51,7 +51,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 global.sig = 'https://instagram.com/fairuzzgapunyaduit' // ig
 global.sgh = 'https://github.com/FairusAnjay/' // github
-global.sgc = 'https://chat.whatsapp.com/G8Ofqsp0oIl19GPE5FI8Kk' // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/E6oTfc5uYJT1JK99ICEIgu' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://youtube.com/channel/UCW2DZKUQ1J7JrvX7nrpTgZQ' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
