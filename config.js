@@ -67,8 +67,8 @@ global.ppulsa2 = '6285648504586' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285649064565'
-global.nomorown = '6285804325802','6285649064565'
+global.nomorbot = '6285648089321'
+global.nomorown = '6285804325802','6285648089321'
 global.namebot = 'FäíŖůżż⛶.md'
 global.nameown = '🤠FäíŖůżż⛶.xyz'
 
@@ -607,8 +607,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/48e1fd3fa6dce7bf1242e.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '227600000000' // default 10TB
+global.fpagedoc = '719118288'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
