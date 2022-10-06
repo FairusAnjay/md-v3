@@ -2015,9 +2015,7 @@ conn.sendButtonDoc(m.chat, str, wm,'⃪⃪᷽⃮ᷣᷣᷣᷣᷣᷞᷣ᷋᷍᷍�
     sourceUrl: sgc
   }
   } }) 
-          }
-handler.help = ['devil']
-handler.tags = ['owner']
+}
 handler.command =  /^(666devil)$/i
 
 export default handler
