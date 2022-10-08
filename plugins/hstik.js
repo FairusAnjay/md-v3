@@ -11,7 +11,7 @@ let handler = async(m, { conn }) => {
 }
 //handler.help = ['henstick']
 //handler.tags = ['hentai']
-handler.command = /^henstick$/i
+handler.command = /^(henstick)$/i
 handler.limit = true
 handler.premium = true
 
